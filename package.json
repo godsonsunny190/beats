@@ -1,0 +1,27 @@
+{
+	"name": "beats-cardio-website",
+	"version": "1.0.0",
+	"description": "Website for Beats Cardiology",
+	"main": "index.js",
+	"scripts": {
+		"dev": "eleventy --serve",
+		"build": "eleventy"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://RidhikGovind@bitbucket.org/trilliumtechnologies/beats-cardio.git"
+	},
+	"keywords": [
+		"11ty",
+		"website"
+	],
+	"author": "Ridhik Govind",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://bitbucket.org/trilliumtechnologies/beats-cardio/issues"
+	},
+	"homepage": "https://bitbucket.org/trilliumtechnologies/beats-cardio#readme",
+	"devDependencies": {
+		"@11ty/eleventy": "^1.0.0"
+	}
+}
